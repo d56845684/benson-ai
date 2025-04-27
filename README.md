@@ -1,6 +1,6 @@
 # 📆 benson-ai
 
-> A lightweight AI extension package for the Weintek TEN platform, simplifying AI workflow orchestration with ready-to-use scripts and modular expansions.
+> A lightweight AI extension package for the TEN platform, simplifying AI workflow orchestration with ready-to-use scripts and modular expansions.
 
 ---
 
@@ -18,7 +18,7 @@
 - **Bash**: Startup scripting (`auto_run.sh`)
 - **Python** (implied by structure, e.g., extensions)
 - **AWS Services** (Transcribe, Polly, S3 - inferred)
-- **Weintek TEN Platform SDK/API**
+- **TEN Platform SDK/API**
 
 ---
 
@@ -52,7 +52,7 @@ $ bash auto_run.sh
 
 ## 📅 Prerequisites
 
-- Access to **Weintek TEN platform** environment
+- Access to **TEN platform** environment
 - (Optional) AWS credentials for cloud services usage (Transcribe, Polly, etc.)
 - Bash-compatible environment (Linux/MacOS/WSL)
 
@@ -74,7 +74,7 @@ $ bash auto_run.sh
 
 ## 📚 References
 
-- [Weintek TEN Platform Documentation](#)
+- [TEN Platform Documentation](https://github.com/ten-framework/ten-agent)
 - [AWS Boto3 SDK Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 - [Bash Shell Scripting Guide](https://www.gnu.org/software/bash/manual/bash.html)
 
